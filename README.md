@@ -10,15 +10,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantcodesig&label=Profile%20views&color=0e75b6&style=flat" alt="vedantcodesig" /> </p>
 
-- 🔭 I’m currently working on **Self supervised learning**
+- 🔭 I’m currently working on : **Self supervised learning**
 
-- 🌱 I’m currently learning **Deep learning , Backend Java.**
+- 🌱 I’m currently learning : **Deep learning , Backend Java.**
 
-- 💬 Ask me about **Flask, Machine learning and Java.**
+- 💬 Ask me about : **Flask, Machine learning and Java.**
 
-- 📫 How to reach me **vedantmanelkar66@gmail.com**
+- 📫 How to reach me : **vedantmanelkar66@gmail.com**
 
-- ⚡ Fun fact **I think I'm mildly funny.**
+- ⚡ Fun fact : **I think I'm mildly funny.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
