@@ -1,4 +1,4 @@
-![Alt Text](https://media3.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=790b7611403406fc2a6291087be96e14ff67430411416e6a&rid=giphy.gif&ct=g)
+![Alt Text](https://media2.giphy.com/media/zOvBKUUEERdNm/200.gif)
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">A graduate in Information technology and a developer from India.</h3>
 
