@@ -1,4 +1,10 @@
-![Alt Text](https://media2.giphy.com/media/zOvBKUUEERdNm/200.gif)
+<p align="center">
+  <img 
+    width="300"
+    height="300"
+    src="https://media2.giphy.com/media/zOvBKUUEERdNm/200.gif"
+  >
+</p>
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">A graduate in Information technology and a developer from India.</h3>
 
