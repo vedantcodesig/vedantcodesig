@@ -1,4 +1,4 @@
-<div align="center">![Alt Text](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)</div>
+![Alt Text](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
 <h1 align="center">Hi 👋, I'm Vedant</h1>
 <h3 align="center">A graduate in Information technology and a developer from India.</h3>
 
