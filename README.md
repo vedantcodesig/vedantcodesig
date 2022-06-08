@@ -1,7 +1,7 @@
 <p align="center">
   <img 
-    width="300"
-    height="300"
+    width="456"
+    height="250"
     src="https://media2.giphy.com/media/zOvBKUUEERdNm/200.gif"
   >
 </p>
