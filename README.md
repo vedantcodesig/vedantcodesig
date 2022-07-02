@@ -5,7 +5,7 @@
     src="https://media2.giphy.com/media/zOvBKUUEERdNm/200.gif"
   >
 </p>
-<h1 align="center">Hi 👋, I'm Vedant</h1>
+<h1 align="center">Hi 👋, I'm Vedant an Information technology graduate</h1>
 <h3 align="center">A graduate in Information technology and a developer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedantcodesig&label=Profile%20views&color=0e75b6&style=flat" alt="vedantcodesig" /> </p>
