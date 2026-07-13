@@ -8,20 +8,15 @@
 [![Gmail Badge](https://img.shields.io/badge/vedantmanelkar66-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vedantmanelkar66@gmail.com)](mailto:vedantmanelkar66@gmail.com)
 ![](https://komarev.com/ghpvc/?username=vedantcodesig&style=flat&color=828bed)
 
-</div>
-
 <br>
 
-<table>
-  <tr>
-    <td width="70%" valign="top">
-      Hi, I'm Vedant Manelkar. I'm a versatile <b>Software Engineer</b> with deep expertise spanning across domains. Whether it's <b>Systems Engineering, Data Engineering, Full Stack Development, AI/ML, DevOps, or SDET</b>, I love building scalable cloud infrastructure and distributed systems. Originally from India 🇮🇳, I'm currently based in the US 🇺🇸, specializing in shipping reliable microservices, automating deployment pipelines, and architecting high-performance backend environments.
-    </td>
-    <td width="30%" align="center">
-      <img src="https://media2.giphy.com/media/zOvBKUUEERdNm/200.gif" width="200" alt="typing monkey gif"/>
-    </td>
-  </tr>
-</table>
+<img src="https://media2.giphy.com/media/zOvBKUUEERdNm/200.gif" width="450" alt="typing monkey gif"/>
+
+<br><br>
+
+Hi, I'm Vedant Manelkar. I'm a versatile <b>Software Engineer</b> with deep expertise spanning across domains. Whether it's <b>Systems Engineering, Data Engineering, Full Stack Development, AI/ML, DevOps, or SDET</b>, I love building scalable cloud infrastructure and distributed systems. Originally from India 🇮🇳, I'm currently based in the US 🇺🇸, specializing in shipping reliable microservices, automating deployment pipelines, and architecting high-performance backend environments.
+
+</div>
 
 ---
 
@@ -29,15 +24,22 @@
 
 Right now, I'm pursuing my Master's in Computer Science at Penn State University, focusing heavily on systems programming, distributed systems, and operating systems. On the technical front, I'm currently building a Predictive 5G Network Sharding architecture that integrates Edge AI with Ethereum smart contracts. I'm also engineering robust AgentOps infrastructure and data pipelines using Python and FastAPI, while constantly optimizing cloud deployments and CI/CD pipelines on AWS and Azure to ensure secure, 99.9% uptime operations. 
 
+A couple of my proudest academic achievements include deploying a GPU-accelerated predictive Edge AI inference server that dropped 5G handover authentication latency by 98.2% to a constant 0.29ms, and engineering an Explainable AI framework for breast cancer diagnosis that hit 92% accuracy while running as a highly scalable web service.
+
 When I'm away from the terminal, you can usually find me hitting the gym on a structured bulking routine, cooking up traditional Indian dishes like butter chicken and varan bhaat, or checking clear sky charts for my next stargazing trip to Cherry Springs State Park.
 
 ---
 
-## 🧩 Professional & Academic Highlights
+## 🗺️ Career Roadmap
 
-Over the past few years, I've had the chance to tackle some incredible engineering challenges. At **Deloitte**, I automated infrastructure provisioning across legacy and modern environments, which ended up reducing our manual setup time by 35%. During my time at **Accelya Solutions**, I architected enterprise microservices that resolved critical bottlenecks, guaranteeing 99.9% uptime across our globally distributed environments. I also spent time at **Montran Corporation** orchestrating enterprise backend applications that integrated AI/ML classification models, successfully cutting processing errors by 40%. 
-
-A couple of my proudest academic achievements include deploying a GPU-accelerated predictive Edge AI inference server that dropped 5G handover authentication latency by 98.2% to a constant 0.29ms, and engineering an Explainable AI framework for breast cancer diagnosis that hit 92% accuracy while running as a highly scalable web service.
+🚀 **Deloitte**  
+┣ 👨‍💻 *Systems Engineering Consultant Intern*  
+┃  
+🏢 **Accelya Solutions**  
+┣ 👨‍💻 *Software Engineer (SDE)*  
+┃  
+🌱 **Montran Corporation**  
+┗ 👨‍💻 *Software Developer Intern*  
 
 ---
 
